@@ -8,7 +8,7 @@ Get back to where you started from.
 </a>
 
 
-You might also be interested in [Get Back in Time](https://apps.repebble.com/en_US/application/553329021b2b662f5b000069).
+You might also be interested in [Get Back in Time](https://apps.repebble.com/en_US/application/553329021b2b662f5b000069) https://github.com/clach04/pebble-getbackintime.
 
 Usage
 -----
